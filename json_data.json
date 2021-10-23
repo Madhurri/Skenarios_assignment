@@ -1,0 +1,32 @@
+{
+"groupId": "test",
+"buildingId": "169w",
+  "description": "My building's notes",
+"address": "Betonimiehenkuja 3",
+"postalCode": "02150",
+"city": "Espoo",
+"country": "FI",
+"buildingType": "office",
+  "floors": 6,
+"floorArea": 60,
+"buildYear": 1964,
+"volume": 4000,
+"balconies": 0,
+"units": 50,
+"lifts": 0,
+"latitude": 60.1805653,
+"longitude": 24.832332299999997,
+"buildingName": "My building's name",
+"polygonUniqueId": "string",
+"propertyGroupId": 0,
+"propertyBuildingId": 0,
+"buildingPrototype": "string",
+  "grossInternalArea": 58,
+"netInternalArea": 56,
+"attributes":[
+{
+"key":"NUMBER_OF_ROOMS",
+  "value":4
+}
+]
+}
