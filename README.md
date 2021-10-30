@@ -4,7 +4,7 @@ This project is assigned by Skenario to automate following REST API endpoint:
 https://api.skenarios.com/api/v1/portfolio/4116/building
 
 Aim of the project is to test list, create and delete oprations of the building served from the above API endpoint.
-More details are in _Assignment.pdf_
+More details are in _Assignment.pdf 
 
 ## Test Instructions
 
